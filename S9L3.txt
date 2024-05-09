@@ -1,0 +1,4 @@
+Vengono eseguite molte richieste TCP che indicano dei tentativi di connessione da 192.168.200.100 a 192.168.200.150.
+Dato che questi tentativi vengono effettuati verso più porte, è probabile che si tratti di una scansione di rete.
+
+Cambiando le regole di firewall è possibile contrastare questi tentativi di scansione, impostandolo su "drop".
